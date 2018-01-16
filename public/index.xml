@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zouno Blog</title>
+    <link>https://zouno.github.io/blogsite/</link>
+    <description>Recent content on Zouno Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jan 2018 23:41:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://zouno.github.io/blogsite/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://zouno.github.io/blogsite/posts/my-first-post/</link>
+      <pubDate>Tue, 16 Jan 2018 23:41:47 +0900</pubDate>
+      
+      <guid>https://zouno.github.io/blogsite/posts/my-first-post/</guid>
+      <description>first body
+本文</description>
+    </item>
+    
+  </channel>
+</rss>
